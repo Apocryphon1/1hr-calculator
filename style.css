@@ -1,0 +1,58 @@
+.home {
+    width: 1000px;
+    height: 1000px;
+}
+
+.container {
+    margin-top: 20%;
+    margin-left: 80%;
+    background-color: #010100;
+    width: 300px;
+    height: 480px;
+    display: border-box;
+    border-radius: 2%;
+}
+
+.container h2 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.calcInput {
+    font-size: 35px;
+    color: white;
+    padding: 20px;
+}
+
+.calcOutput {
+    color: white;
+    padding: 10px 20px;
+}
+
+.clacBtns {
+    text-align: center;
+}
+
+.clacBtns button {
+    font-size: 20px;
+    background-color: #333232;
+    color: white;
+    display: inline-block;
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+}
+
+.emptyBtn {
+    color: #333232 !important;
+}
+
+.operatorBtn {
+    background-color: #fe9f04 !important;
+}
+
+.delBTN {
+    background-color: #a5a4a4 !important;
+    color: #010100 !important;
+}
